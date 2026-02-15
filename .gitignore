@@ -4,5 +4,3 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 *.lnk
-run_silently.vbs
-launch_pilot.bat
