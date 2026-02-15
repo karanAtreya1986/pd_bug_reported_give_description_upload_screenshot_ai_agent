@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# pd_bug_reported_give_description_upload_screenshot_ai_agent
-=======
 # 🚀 Jira Ticket Pilot: AI-Powered Bug Reporter
 
 Jira Ticket Pilot is a premium, automated bug reporting agent. It leverages **Groq (gpt-oss-120b)** to transform raw user descriptions and **multiple screenshots** into professional, structured Jira tickets via the Jira REST API v3.
@@ -75,4 +72,3 @@ This project was developed using the **B.L.A.S.T.** protocol:
 
 ## 🛡️ License
 Proprietary. Developed for automated QA workflows.
->>>>>>> ef1041f (Initial commit: Jira Ticket Pilot AI Agent with Premium UI and Groq Integration)
