@@ -7,7 +7,7 @@ load_dotenv()
 
 def process_bug_with_ai(user_description):
     """
-    Uses Groq (gpt-oss-120b) to structure a raw bug description.
+    Uses Groq (llama-3.3-70b-versatile) to structure a raw bug description.
     """
     api_key = os.getenv("GROQ_API_KEY")
     model = os.getenv("GROQ_MODEL")

@@ -30,7 +30,7 @@ graph TD
 ## 🛠️ Tech Stack
 - **Frontend**: Vanilla HTML5, CSS3 (Custom Glassmorphism), Modern JavaScript.
 - **Backend Orchestration**: Python 3.10+ (Flask, Requests).
-- **LLM Integrated**: Groq API (`openai/gpt-oss-120b`).
+- **LLM Integrated**: Groq API (`llama-3.3-70b-versatile`).
 - **Target Integration**: Atlassian Jira Cloud REST API v3.
 
 ---
