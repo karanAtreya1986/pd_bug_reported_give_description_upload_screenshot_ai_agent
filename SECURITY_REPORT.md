@@ -90,7 +90,7 @@ JIRA_API_TOKEN=your-jira-api-token
 JIRA_PROJECT_KEY=PROJ
 
 GROQ_API_KEY=your-groq-api-key
-GROQ_MODEL=openai/llama-3.3-70b-versatile
+GROQ_MODEL=openai/gpt-oss-120b
 ```
 
 ---
@@ -133,7 +133,7 @@ Users must create their own `.env` file with the following credentials:
 | `JIRA_API_TOKEN` | Jira API token | Generate at: https://id.atlassian.com/manage-profile/security/api-tokens |
 | `JIRA_PROJECT_KEY` | Project key in Jira | From your Jira project settings |
 | `GROQ_API_KEY` | Groq API key | Sign up at: https://console.groq.com |
-| `GROQ_MODEL` | AI model name | Default: `openai/llama-3.3-70b-versatile` |
+| `GROQ_MODEL` | AI model name | Default: `openai/gpt-oss-120b` |
 
 ---
 
